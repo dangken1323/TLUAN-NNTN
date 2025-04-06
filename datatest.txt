@@ -1,0 +1,3 @@
+This is a sample tweet.
+Another example of a tweet.
+Machine learning is fun!
